@@ -34,9 +34,9 @@ False: Disables plugin.
 QR code example:
 ----------------
 
-`pause`
+``pause``
 
-![pause](docs/pause.png?raw=true "Title")
+.. image:: docs/pause.png
 
 Plugin Options
 --------------
