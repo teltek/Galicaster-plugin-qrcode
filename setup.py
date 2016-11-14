@@ -25,7 +25,7 @@ setup(
     url='https://github.com/teltek/Galicaster-plugin-qrcode',
 
     # Choose your license
-    license='CC BY-NC-SA',
+    license='MIT',
 
 
     # You can just specify the packages manually here if your project is
@@ -37,5 +37,5 @@ setup(
     # your project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['pyserial'],
+    install_requires=[],
 )
