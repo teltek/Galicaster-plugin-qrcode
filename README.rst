@@ -31,6 +31,14 @@ To activate the plugin, add the line in the `plugins` section of your configurat
 True: Enables plugin.
 False: Disables plugin.
 
+And set the recording pipeline pause type
+::
+
+    [recorder]
+    pausetype = recording
+
+recording: GST pipeline keeps running, nothing recorded when paused.
+
 QR code example:
 ----------------
 
